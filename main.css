@@ -1,0 +1,16 @@
+.list{
+    display: flex;
+   flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    border: solid blue 2px;
+    flex-basis: 30%;
+    padding: 3px;
+}
+.pageHeader{
+text-align: center;
+margin: 10px;
+
+}
